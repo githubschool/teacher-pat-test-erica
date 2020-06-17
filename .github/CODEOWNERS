@@ -1,0 +1,4 @@
+* @team-lead
+*.js @front-end-person
+/test/ @qa-team
+/test/*.rb @ruby-person
